@@ -1,2 +1,2 @@
-# simple-cv-w
+# simple-cv
 HTML/CSS with js loader 
